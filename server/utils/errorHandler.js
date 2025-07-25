@@ -1,3 +1,4 @@
+// Made with AI
 class ErrorResponse extends Error {
   constructor(message, statusCode) {
     super(message);
