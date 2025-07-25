@@ -1,3 +1,4 @@
+// Made with AI
 const express = require('express');
 const {
   getProducts,
